@@ -2,7 +2,7 @@
 
 Transfer learning project using PyTorch.
 
-## What I Did
+## Steps
 - Loaded pretrained ResNet18
 - Froze backbone layers
 - Replaced final FC layer for 10 CIFAR-10 classes
